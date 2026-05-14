@@ -4,7 +4,7 @@ An advanced, production-ready test automation framework utilizing **Python**, **
 
 ---
 
-## 🚀 Key Highlights for Recruiters
+## 🚀 Key Highlights 
 *   **Page Object Model (POM):** Clean separation of test logic from UI elements for maximum reusability.
 *   **Data-Driven Automation:** Dynamic test data execution via isolated JSON datasets and reusable pytest fixtures.
 *   **AI-Driven Self-Healing (PoC):** Integration with LLM APIs (OpenAI/Claude) to dynamically parse the DOM and heal broken selectors on failure.
